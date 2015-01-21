@@ -1,0 +1,100 @@
+#tab-panel-wpi_pricelist_help_tab h3{
+	font-size:23px;
+}
+.wpi-pricelist{
+	display:table;
+	width:100%;
+}
+.wpi-pricelist *{ 
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+  box-sizing: border-box;         /* Opera/IE 8+ */
+}
+.wpi-pricelist .wpi-pl-11{
+	width:100%;
+	display:table-cell;
+	text-align:center;
+	vertical-align:top;
+}
+.wpi-pricelist .wpi-pl-12{
+	width:50%;
+	display:table-cell;
+	text-align:center;
+	vertical-align:top;
+}
+.wpi-pricelist .wpi-pl-13{
+	width:33.3%;
+	display:table-cell;
+	text-align:center;
+	vertical-align:top;
+}
+.wpi-pricelist .wpi-pl-14{
+	width:25%;
+	display:table-cell;
+	text-align:center;
+	vertical-align:top;
+}
+.wpi-pricelist .wpi-pl-15{
+	width:20%;
+	display:table-cell;
+	text-align:center;
+	vertical-align:top;
+}
+
+.wpi-pricelist .wpi-pl-row{
+	height:40px;
+	font-size:15px;
+	line-height:40px;
+	border-bottom: 1px dotted #dddddd;
+}
+.wpi-pricelist .wpi-pl-values{
+	background-color:#F6F6F6;
+}
+
+.wpi-pricelist .wpi-pl-recommend{
+	/* -webkit-box-shadow: 0px 0px 25px #eeeeee; */
+	-moz-box-shadow: 0px 0px 25px #eeeeee;
+	box-shadow: 0px 0px 25px #A8D011;
+	position: relative;
+}
+.wpi-pricelist .wpi-pl-title{
+	background-color:#7CA812;
+	color:#ffffff;
+	line-height:40px;
+}
+.wpi-pricelist .wpi-pl-recommend .wpi-pl-title{
+	background-color:#A8D011;
+	margin-top: -20px;
+	height: 60px;
+	padding-top: 10px;
+	font-size: 20px;	
+}
+
+.wpi-pricelist .wpi-pl-btn{
+	background-color:#7CA812;
+	border:2px solid #7CA812!important;
+	color:#ffffff;	
+	border-radius:20px;
+	padding:4px 20px;
+	display:inline-block;
+	-webkit-transition: all .2s;
+	-moz-transition: all .2s;
+	transition: all .2s;
+	outline:none;	
+}
+.wpi-pricelist .wpi-pl-btn:hover{
+	background-color:#7CA812;
+	color:#ffffff;	
+	border-radius:20px;
+	padding:4px 20px;
+	display:inline-block;
+	background-color:#ffffff;
+	color:#7CA812;
+}
+.wpi-pricelist .wpi-pl-btn:focus, .wpi-pricelist .wpi-pl-btn:active, .wpi-pricelist .wpi-pl-btn:hover {
+    outline: none;
+}
+.wpi-pricelist .wpi-pl-btn-row{
+	padding:10px 0px;	
+	background-color: #eeeeee;
+}
