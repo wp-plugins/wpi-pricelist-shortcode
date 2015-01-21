@@ -1,7 +1,7 @@
 ===  WPi PriceList Shortcode - Create pricelist using shortcode in easy way  === 
 Contributors: wooprali
 Donate link: http://wooprali.prali.in/
-Tags: price table, pricelist shortcode, pricelist, price table shortcode, price list shortcode
+Tags: price table, pricelist shortcode, pricelist, price table shortcode, price list shortcode,  comparison table, pricing table,  pricing box,  comparison
 Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 4.3
